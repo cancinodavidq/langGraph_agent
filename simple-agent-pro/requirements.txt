@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-openai
+pydantic-settings
+python-dotenv
+langgraph-checkpoint-sqlite
+httpx
+openai

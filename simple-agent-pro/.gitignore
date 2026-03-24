@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+
+# API Keys y variables de entorno
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
